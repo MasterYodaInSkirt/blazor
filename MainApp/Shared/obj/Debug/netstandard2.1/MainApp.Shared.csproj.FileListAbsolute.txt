@@ -1,0 +1,8 @@
+D:\development\blazor_crud\MainApp\Shared\bin\Debug\netstandard2.1\MainApp.Shared.deps.json
+D:\development\blazor_crud\MainApp\Shared\bin\Debug\netstandard2.1\MainApp.Shared.dll
+D:\development\blazor_crud\MainApp\Shared\bin\Debug\netstandard2.1\MainApp.Shared.pdb
+D:\development\blazor_crud\MainApp\Shared\obj\Debug\netstandard2.1\MainApp.Shared.AssemblyInfoInputs.cache
+D:\development\blazor_crud\MainApp\Shared\obj\Debug\netstandard2.1\MainApp.Shared.AssemblyInfo.cs
+D:\development\blazor_crud\MainApp\Shared\obj\Debug\netstandard2.1\MainApp.Shared.csproj.CoreCompileInputs.cache
+D:\development\blazor_crud\MainApp\Shared\obj\Debug\netstandard2.1\MainApp.Shared.dll
+D:\development\blazor_crud\MainApp\Shared\obj\Debug\netstandard2.1\MainApp.Shared.pdb

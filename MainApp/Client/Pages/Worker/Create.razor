@@ -1,0 +1,14 @@
+﻿@page "/worker/create"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+<h3>Create</h3>
+<Form ButtonText="Create Developer" wor="@wor"
+      OnValidSubmit="@CreateWorker" />
+@code {
+    Worker wor = new Worker();
+    async Task CreateWorker()
+    {
+        await http.PostAsJsonAsync("api/worker", wor);
+        uriHelper.NavigateTo("worker");
+    }
+}
